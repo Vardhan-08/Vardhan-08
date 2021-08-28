@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning applications of machine and deep learning in various fields like Biomedicine and Astronomy.
 - 👯 I’m looking to collaborate on projects and research based on Machine Learning, Deep Learning and Natural Language Processing.
 - 📫 How to reach me: Email: vardhanpaliwal2000@gmail.com, ee190002065@iiti.ac.in
+
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
